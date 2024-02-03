@@ -17,7 +17,6 @@ int main()
 		map->ChooseCharacter();
 		
 		system("cls");
-
 		std::cout << "You selected " << MainChar->GetClassName() << "\n******************\n\n";
 
 		map->DisplayMap();
