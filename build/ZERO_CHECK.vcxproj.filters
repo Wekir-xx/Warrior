@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="D:\proga\Warrior\build\CMakeFiles\33b32c17b1d097f1160bc7318850834c\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{A9CEC196-6EA5-3D9F-950A-970FC26CE369}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
